@@ -16,6 +16,9 @@ The dataset can be found here: https://www.kaggle.com/datasets/airbnb/seattle/da
 
 ## EDA
 The analysis was focused on answering the following business questions:
+- What amenities do highly rated listings have in common?
+- Are apartments hosted by superhosts booked more often and more highly rated?
+- What are the most common complaints in poor reviews?
 
 
 
