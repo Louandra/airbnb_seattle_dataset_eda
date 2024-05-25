@@ -1,4 +1,4 @@
-# udacity_project1
+# AirBNB Seattle Data Exploration
 This repo contains a Jupyter notebook containing code used for exploratory data analysis of the Seattle AirBnb dataset.
 
 ## Getting started
