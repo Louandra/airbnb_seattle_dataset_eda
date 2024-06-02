@@ -36,3 +36,4 @@ The accompanying blog post summarizing the results can be found here: https://me
 
 ### Acknowledgements
 - Kaggle and Airbnb for publishing the Seattle Airbnb Open Data which was used in the analysis. https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+- Seaborn documentation: https://seaborn.pydata.org/index.html
